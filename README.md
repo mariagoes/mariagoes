@@ -14,8 +14,8 @@ Python, Flask, HTML/CSS, JavaScript, SQLite/Postgres, Git/GitHub, Wireshark, Lin
 Data structures & algorithms, scalable systems, AI safety patterns
 
 ## 📫 Reach me
-- Email: maria.eduarda.goes505@gmail.com
-- LinkedIn: <add your link>
+- Email: mariaegoesf@gmail.com
+- LinkedIn:
 - Location: Miami / Remote
 
 > “Bring everyone the inspiration to create a life they love.”
