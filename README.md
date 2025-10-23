@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**mariagoes/mariagoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity + Software Development** · I build tools that make technology **safer** and **more human**.
 
-Here are some ideas to get you started:
+## 🔭 Featured Projects
+- **WOSI 2.0** — Secure web app for digital safety and incident reporting
+- **AI Inspiration Recommender** — Creative idea generator with Pinterest-style cards
+- **Cyber Safety Extension** — Flags risky URLs and explains why
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Toolbox
+Python, Flask, HTML/CSS, JavaScript, SQLite/Postgres, Git/GitHub, Wireshark, Linux
+
+## 🌱 Currently learning
+Data structures & algorithms, scalable systems, AI safety patterns
+
+## 📫 Reach me
+- Email: maria.eduarda.goes505@gmail.com
+- LinkedIn: <add your link>
+- Location: Miami / Remote
+
+> “Bring everyone the inspiration to create a life they love.”
+
+*Updated 2025-10-23*
+
